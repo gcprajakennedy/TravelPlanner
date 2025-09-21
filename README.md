@@ -15,7 +15,6 @@ Prereqs if you want full functionality locally:
 - Optional but recommended: `WEATHER_API_KEY` (OpenWeather), `MAPS_KEY` (Google Places)
 
 Commands (PowerShell):
-
 ```powershell
 # From repo root
 npm install --prefix .\backend
